@@ -1,0 +1,518 @@
+.mac-book-pro142-container {
+  min-height: 100vh;
+}
+.container {
+  width: 100%;
+  height: 1659px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle {
+  top: 0px;
+  left: 0px;
+  width: 2472px;
+  height: 700px;
+  position: absolute;
+  border-color: transparent;
+}
+.image {
+  top: 34px;
+  left: 364px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+}
+.headline {
+  top: 36px;
+  left: 433px;
+  color: rgba(186, 206, 193, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.nav {
+  top: 49px;
+  left: 1623px;
+  color: rgba(0, 0, 0, 1);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.subheading {
+  top: 333px;
+  left: 459px;
+  color: rgba(0, 0, 0, 1);
+  width: 261px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.nav2 {
+  top: 48.69384765625px;
+  left: 1716px;
+  color: rgba(0, 0, 0, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.nav3 {
+  top: 49px;
+  left: 1833px;
+  color: rgba(0, 0, 0, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+/* .nav4 {
+  left: 1979px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+} */
+.mac-book-pro142-mockuuupswhiteclayiphonexmockupfront1 {
+  top: 101px;
+  left: 1685px;
+  width: 314px;
+  height: 561px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-text12 {
+  top: 205px;
+  left: 403px;
+  color: rgba(186, 206, 193, 0.8500000238418579);
+  width: 368px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text13 {
+  font-weight: 400;
+}
+.mac-book-pro142-rectangle5 {
+  top: 463px;
+  left: 480px;
+  width: 214px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.mac-book-pro142-text18 {
+  top: 474px;
+  left: 537px;
+  color: rgba(0, 0, 0, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-rectangle6 {
+  top: 692px;
+  left: -3px;
+  width: 2472px;
+  height: 366px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-text20 {
+  top: 720px;
+  left: 1061px;
+  color: rgba(245, 245, 245, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text22 {
+  top: 797px;
+  left: 1028px;
+  color: rgba(245, 245, 245, 1);
+  width: 378px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text24 {
+  top: 900px;
+  left: 982px;
+  color: rgba(245, 245, 245, 1);
+  width: 462px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text26 {
+  top: 1573px;
+  left: 1028px;
+  color: rgba(0, 0, 0, 1);
+  width: 413px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-image39 {
+  top: 419px;
+  left: 736px;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-text28 {
+  top: 1523px;
+  left: 1120px;
+  color: rgba(186, 206, 193, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-image40 {
+  top: 1519px;
+  left: 1076px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-rectangle2 {
+  top: 1171px;
+  left: 728px;
+  width: 257px;
+  height: 263px;
+  position: absolute;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 46px;
+}
+.mac-book-pro142-rectangle9 {
+  top: 1171px;
+  left: 1105px;
+  width: 257px;
+  height: 263px;
+  position: absolute;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 46px;
+}
+.mac-book-pro142-rectangle10 {
+  top: 1171px;
+  left: 1501px;
+  width: 257px;
+  height: 263px;
+  position: absolute;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 46px;
+}
+.mac-book-pro142-text30 {
+  top: 1291px;
+  left: 803px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text32 {
+  top: 1331px;
+  left: 745px;
+  color: rgba(0, 0, 0, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-meditationamico2 {
+  top: 1165px;
+  left: 798px;
+  width: 132px;
+  height: 132px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-text34 {
+  top: 1297px;
+  left: 1180px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text36 {
+  top: 1337px;
+  left: 1125px;
+  color: rgba(0, 0, 0, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-makingartcuate1 {
+  top: 1176px;
+  left: 1176px;
+  width: 117px;
+  height: 127px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-text38 {
+  top: 1298px;
+  left: 1571px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-text40 {
+  top: 1335px;
+  left: 1522px;
+  color: rgba(0, 0, 0, 1);
+  width: 222px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro142-newteammemberspana1 {
+  top: 1173px;
+  left: 1557px;
+  width: 138px;
+  height: 138px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro142-meditationamico3 {
+  top: 144px;
+  left: 1223px;
+  width: 419px;
+  height: 419px;
+  position: absolute;
+  border-color: transparent;
+}
+.footer {
+  top: 1076px;
+  left: 1111px;
+  color: rgba(186, 206, 193, 0.8500000238418579);
+  width: 261px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
